@@ -1,1 +1,6 @@
-ghbdtn
+.vscode
+build
+build.sh
+bin*
+/*/output
+prj.lab/.vs
