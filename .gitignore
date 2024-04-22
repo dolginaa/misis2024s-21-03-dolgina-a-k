@@ -3,4 +3,4 @@ build
 build.sh
 bin*
 /*/output
-prj.lab/.vs
+/*/.vs
