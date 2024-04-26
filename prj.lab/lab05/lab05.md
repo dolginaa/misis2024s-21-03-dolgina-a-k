@@ -13,7 +13,7 @@ $$
 \end{array}\right)
 $$ 
 
-![](C:/misis2024s-21-03-dolgina-a-k/prj.lab/lab05/l_1.png)
+![](./l_1.png)
 
 Изображение $l_{2}$ для ядра:
 $$
@@ -23,11 +23,11 @@ $$
 \end{array}\right)
 $$ 
 
-![](C:/misis2024s-21-03-dolgina-a-k/prj.lab/lab05/l_2.png)
+![](./l_2.png)
 
 Изображение $l_{3}$, где $l_{3}$ = $\sqrt{l_{1}*l_{1} + l_{2} * l_{2}}$:
 
-![](C:/misis2024s-21-03-dolgina-a-k/prj.lab/lab05/l_3.png)
+![](./l_3.png)
 
 Результирующее изображение, где каналами являются $l_{1}$, $l_{2}$ и $l_{3}$:
-![](C:/misis2024s-21-03-dolgina-a-k/prj.lab/lab05/res.png)
+![](./res.png)
