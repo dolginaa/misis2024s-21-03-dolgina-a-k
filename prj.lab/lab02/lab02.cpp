@@ -116,7 +116,7 @@ int main(int argc, char* argv[]) {
     cv::vconcat(samples, res_img, res_img);
 
     cv::imshow("lab02", res_img);
-    // cv::imwrite("../prj.lab/lab02/res.png", res_img);
+    cv::imwrite("../prj.lab/lab02/res.png", res_img);
     cv::waitKey(0);
     return 0;
 }
