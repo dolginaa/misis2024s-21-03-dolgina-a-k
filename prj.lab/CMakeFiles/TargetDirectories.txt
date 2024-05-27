@@ -1,0 +1,7 @@
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/CMakeFiles/ALL_BUILD.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/CMakeFiles/ZERO_CHECK.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/prj.lab/lab01/CMakeFiles/lab01.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/prj.lab/lab02/CMakeFiles/lab02.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/prj.lab/lab03/CMakeFiles/lab03.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/prj.lab/lab04/CMakeFiles/lab04.dir
+C:/misis2024s-21-03-dolgina-a-k/prj.lab/prj.lab/lab05/CMakeFiles/lab05.dir
