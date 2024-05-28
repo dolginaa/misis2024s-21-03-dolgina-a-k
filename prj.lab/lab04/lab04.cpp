@@ -300,7 +300,7 @@ void change_blur_core(int pos, void*) {
 }
 
 void create_window(int type) {
-    cv::destroyWindow(gWindowName);
+    //cv::destroyWindow(gWindowName);
     cv::namedWindow(gWindowName);
     // cv::createTrackbar("General treshold type", gWindowName, &type, 1);
     // Для адаптивной бинаризации
